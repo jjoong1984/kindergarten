@@ -232,7 +232,8 @@
     color:rgba(255, 255, 255, 1);
  }
 
-.bestChoice { background:url(../images/main-bottomBanner.min.jpg) no-repeat; height:160px;
+.bestChoice {
+    background:url(../images/main-bottomBanner.min.jpg) no-repeat; height:160px;
     background-size: cover;
     background-attachment: fixed;
     background-position:center;

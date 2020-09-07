@@ -85,9 +85,10 @@
     border-left:10px solid transparent;
     border-right:10px solid transparent;
 } /*삼각형 사이즈 조절은 border-의 px를 조절*/
-.logoNav .depth1 > li:hover .depth2 {
+
+/* .logoNav .depth1 > li:hover .depth2 {
     display:block
-}
+} */
 .logoNav .depth2 > li {
     line-height:35px;
     color:#ffae3d
